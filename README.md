@@ -1,4 +1,4 @@
-# Achiement-team-of-sales
+# achievement-team-of-sales
 
 WITH 
 date_day AS (
